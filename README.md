@@ -14,5 +14,7 @@ pip install ultralytics opencv-python matplotlib
 ```
 
 Then Run the project 
-```python app.py
+
+```bash
+python app.py
 ```
