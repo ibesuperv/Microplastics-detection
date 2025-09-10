@@ -72,3 +72,7 @@ App will run at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 - **Training Platform**: Google Colab with T4 GPU  
 - **Training Notebook**: [Colab Link](https://colab.research.google.com/drive/14T0IYoGNf2OMkdKJrqLzFoNt4M1gppRF?usp=sharing)  
 
+---
+## Demo  
+ Check out the project in action:  
+[![Watch the video](https://img.shields.io/badge/Watch-Demo-blue?logo=vimeo)](https://vimeo.com/1117379901?share=copy)
