@@ -53,9 +53,11 @@ pip install ultralytics opencv-python
 ```bash
 python app.py
 ```
+
 App will run at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
---
-## usage
+
+---
+## Usage
 1. Open the app in a browser.
 2. Upload a water sample image (.jpg, .png, .jpeg).
 3. Wait for detection results.
@@ -63,8 +65,8 @@ App will run at: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
    - The uploaded image with detection boxes (if any).
    - A message: "Suitable for Drinking" or "Not Suitable for Drinking".
 
---
-# Model and Dataset
+---
+## Model and Dataset
 - **Model**: YOLOv8 (Ultralytics)  
 - **Trained on**: [Kaggle Microplastics Dataset](https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision)  
 - **Training Platform**: Google Colab with T4 GPU  
